@@ -29,7 +29,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,vscode,maven&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python,js,spring,react,mysql,postgres,git,github,idea,vscode" alt="Java, Python, JavaScript, Spring, React, MySQL, PostgreSQL, Git, GitHub, IntelliJ IDEA e VS Code" />
 
 </div>
 
